@@ -16,7 +16,7 @@ public class stars3 {
             }
             j = 1;
             while (j<=i){
-                System.out.print("**");
+                System.out.print("***");
                 j++;
             }
             j = 1;
